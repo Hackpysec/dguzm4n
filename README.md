@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm David Joel Guzmán Del Orbe</h1>
 <h3 align="center">Junior Penetration Tester</h3>
 
-<script src="https://tryhackme.com/badge/439235"></script>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/DavidJoel.png" alt="TryHackMe">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dguzm4n" alt="dguzm4n" /></a> </p>
@@ -21,6 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dguzm4n&show_icons=true&locale=en" alt="dguzm4n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dguzm4n&" alt="dguzm4n" /></p>
+
+
 
 
 
