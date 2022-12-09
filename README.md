@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm David Joel Guzmán Del Orbe</h1>
 <h3 align="center">Junior Penetration Tester</h3>
 
+<script src="https://tryhackme.com/badge/439235"></script>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dguzm4n" alt="dguzm4n" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
