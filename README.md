@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm David Joel Guzmán Del Orbe</h1>
 <h3 align="center">Junior Penetration Tester</h3>
